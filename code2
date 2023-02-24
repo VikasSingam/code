@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-lst=["cat","dog","cow","deer"]
-=======
-lst=["cat","dog","cow","sheep"]
->>>>>>> parent of b5bde7d (element upated)
+lst=["cat","dog","cow","rat","goat"]
 for i in lst:
 print(i)
