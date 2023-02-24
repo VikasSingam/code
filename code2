@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 lst=["cat","dog","cow"]
+=======
+lst=["cat","dog","cow","sheep"]
+>>>>>>> parent of b5bde7d (element upated)
 for i in lst:
 print(i)
